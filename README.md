@@ -1,6 +1,7 @@
 # Pioneer-CdPi1000NexusX
 Cdj1000mk3 midi hack with mixxx stand-alone in rpi4
-Hello fellow programmers and Dj’s alike,
+Hello fellow programmers and Dj’s alike
+
 I would like to present the project I have been working on for the last few weeks.
 
 To put it in context, I've been a Dj for about 15 years and my current setup is 4x Pioneer CDJ400 + Pioneer DJM800 using MIDI HID with TraktorPro3, which is a good setup but I'm looking for something even more club friendly, more standardized equipment and music preparing using RekordBox.
